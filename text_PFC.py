@@ -1,3 +1,5 @@
+# THIS IS PRETTY SHITY CODE 
+
 import time
 import random
 import os
